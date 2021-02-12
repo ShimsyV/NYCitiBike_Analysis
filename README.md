@@ -26,7 +26,7 @@ The data I used for the analysis is the 2017 data from January to December from 
 
 * Removed any data which had age over 100 years. 
 
-### Analysis
+## Analysis/ Summary
 
 Click [here](https://public.tableau.com/profile/shimsy#!/vizhome/CitiBike_NY/Story1) for the story board on tableau. 
 
